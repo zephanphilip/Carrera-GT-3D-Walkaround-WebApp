@@ -1,0 +1,1 @@
+run python -m http.server on frontend folder and view it on port 8000.
